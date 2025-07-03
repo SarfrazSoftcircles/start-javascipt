@@ -1,3 +1,9 @@
 body{
     background-color: antiquewhite;
 }
+.head{
+    padding: auto;
+}
+h1{
+    color: red;
+}
